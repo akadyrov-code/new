@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-04-28 15:30">
+  <shop>
+    <offers>
+      <offer id="761567154" available="true">
+        <price>10000</price>
+        <vat>VAT_20</vat>
+        <shipmentPeriod>5</shipmentPeriod>
+        <outlets>
+          <outlet id="1" instock="10"/>
+        </outlets>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
