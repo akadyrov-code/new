@@ -3,8 +3,8 @@
   <shop>
     <offers>
       <offer id="761567154" available="true">
-        <price>10001</price>
         <oldPrice>10001</oldPrice>
+        <price>10001</price>
         <vat>VAT_20</vat>
         <shipmentPeriod>5</shipmentPeriod>
         <outlets>
