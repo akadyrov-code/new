@@ -8,7 +8,7 @@
         <vat>VAT_20</vat>
         <shipmentPeriod>5</shipmentPeriod>
         <outlets>
-          <outlet id="1" instock="1"/>
+          <outlet id="1" instock="9"/>
         </outlets>
       </offer>
     </offers>
